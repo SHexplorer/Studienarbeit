@@ -2,6 +2,8 @@
 
 This Repo is contains all source files for the Sensorkit Desktop App, Main Controller, CoProcessor and Receiver and PCB files. The Sensorkit is a university project with the title "Modification of a quadrocopter for the acquisition of meteorological data", made by two german students.
 
+The final Thesis is stored as Studienarbeit.pdf.
+
 ## Main Controller ##
 
 Based on PlatformIO
